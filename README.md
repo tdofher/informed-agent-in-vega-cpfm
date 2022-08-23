@@ -1,1 +1,1 @@
-# informed-agent-in-vega-cpfm
+# Informed Agent in Vega CPFM
