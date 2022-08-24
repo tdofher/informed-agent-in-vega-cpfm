@@ -1,6 +1,6 @@
 # Informed Agent in Vega CPFM
 
-Code was designed to run in Google Colab - to run in another directory, comment out the.
+Code was designed to run in Google Colab - to run in another directory, comment out the first cell of any of the 'aaa' files.
 
 All notebooks starting with 'aaa' are meant to be run by the user. Other notebooks organize the helper functions.
 
